@@ -17,9 +17,9 @@ import (
 	"github.com/dave/jennifer/jen"
 	"github.com/emicklei/proto"
 	"github.com/emicklei/proto-contrib/pkg/protofmt"
-	"github.com/kujtimiihoxha/kit/fs"
-	"github.com/kujtimiihoxha/kit/parser"
-	"github.com/kujtimiihoxha/kit/utils"
+	"github.com/kimmosc2/kit/fs"
+	"github.com/kimmosc2/kit/parser"
+	"github.com/kimmosc2/kit/utils"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
 )

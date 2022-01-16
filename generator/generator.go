@@ -13,9 +13,9 @@ import (
 	"go/format"
 
 	"github.com/dave/jennifer/jen"
-	"github.com/kujtimiihoxha/kit/fs"
-	"github.com/kujtimiihoxha/kit/parser"
-	"github.com/kujtimiihoxha/kit/utils"
+	"github.com/kimmosc2/kit/fs"
+	"github.com/kimmosc2/kit/parser"
+	"github.com/kimmosc2/kit/utils"
 	"github.com/sirupsen/logrus"
 )
 

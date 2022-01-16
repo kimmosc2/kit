@@ -9,7 +9,7 @@ import (
 	"fmt"
 
 	"github.com/alioygur/godash"
-	"github.com/kujtimiihoxha/kit/fs"
+	"github.com/kimmosc2/kit/fs"
 	"github.com/spf13/viper"
 	"golang.org/x/tools/imports"
 )
